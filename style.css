@@ -841,7 +841,7 @@ footer h4,a,p{
     /* border: 2px solid grey; */
     height: 400px;
     width: 100%;
-    margin: 0 40px;
+    margin: 0;
     
 }
 
@@ -921,7 +921,7 @@ footer h4,a,p{
     flex-direction: column;
     height: 400px;
     width: auto;
-    margin: 0 40px;
+    margin: 0 110px;
     align-items: flex-start;
 }
 
